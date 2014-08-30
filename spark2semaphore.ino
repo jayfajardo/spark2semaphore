@@ -33,7 +33,6 @@ int millLast = 0;                    // Last time (in millis()) the doorbell was
 int pinDoorbell = D0;                // Button pin
 int millDelay = 15000;               // How much time to wait until we allow another doorbell "ring" again
 char srvIP[] = "54.255.142.115";     // Server IP address (api.sempahore.co)
-byte server[] = { 54, 255, 142, 115 };
 char srvHost[] = "api.semaphore.co"; // HTTP 1.1 hostname
 char contentType[] = "application/x-www-form-urlencoded";
 int srvPort = 80;                    // Server port number
