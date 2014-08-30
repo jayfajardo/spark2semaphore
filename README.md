@@ -3,7 +3,7 @@ Spark2Semaphore
 
 Demo sketch for the Spark Core to send an SMS alert message to Philippine mobile numbers via semaphore.co
 
-![ScreenShot](setup.jpg)
+![ScreenShot](setup.JPG)
 
 
 ## Requirements
