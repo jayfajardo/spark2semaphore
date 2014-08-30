@@ -9,7 +9,7 @@ Demo sketch for the Spark Core to send an SMS alert message to Philippine mobile
 ## Requirements
 
 * SPARK Core from http://www.spark.io 
-* SEMAPHORE account from http://www.semaphore.co 
+* SEMAPHORE account from http://www.semaphore.co. Get one! You'll receive 100 free message credits for you to play around with. 
 
 ## Optional
 
